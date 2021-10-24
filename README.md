@@ -1,14 +1,3 @@
-# Webpack Starter
+# Js Notas
 
-Este es el proyecto inicial para crear aplicaciones utilizando webpack.
-
-### Notas:
-Recuerden reconstruir los módulos de Node
-```
-npm install
-```
-
-Y para construir el build, recueren:
-```
-npm run build
-```
+## Este es el proyecto para crear un anotador de tareas.  
